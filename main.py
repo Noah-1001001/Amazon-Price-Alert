@@ -12,7 +12,7 @@ emailId = os.getenv("EMAIL")
 password = os.getenv("PASSWORD")
 TARGET_PRICE = 70000
 
-URL = "https://amazon.in"
+URL = "https://www.amazon.in/dp/B0DSKL9MQ8?ref_=Br_MuCl_QAHzEditorial_en_IN_test_multiAk_1_1_1&pf_rd_r=9V10X8PT41K9AG56P10W&pf_rd_p=03a2cabb-8841-4e5e-bb79-d25cdbb744e6&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_s=merchandised-search-3&pf_rd_t=&pf_rd_i=1389401031&th=1"
 
 # Hardened production-grade browser signature
 HEADERS = {
